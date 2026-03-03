@@ -1,33 +1,7 @@
 # React E-Commerce Project — Beginner to Full App
 
 This repository contains the complete **React e-commerce application** built throughout the course.
-The project is designed to take you from **zero React knowledge** to building a **real, production-style application** using modern React patterns.
 
----
-
-## 🤖 CodeRabbit Integration (Required)
-
-This project uses **CodeRabbit** to automatically review pull requests and catch bugs, best-practice issues, and improvements.
-
-### How to Integrate CodeRabbit
-
-1. Go to **[https://coderabbit.link/pedro](https://coderabbit.link/pedro)**
-2. Install CodeRabbit on your GitHub account
-3. Enable it for this repository
-4. Open a Pull Request
-5. CodeRabbit will automatically:
-   - Review your code
-   - Leave inline comments
-   - Highlight bugs, anti-patterns, and improvements
-
-> Code reviews are an essential part of real-world development.
-> CodeRabbit simulates having a senior developer reviewing your work.
-
----
-
-## 📚 Topics Covered (With Code)
-
----
 
 ## 1. Project Setup & Tooling
 
@@ -374,15 +348,4 @@ Works for any React app, not just Next.js.
 
 ---
 
-## 🎯 Learning Outcome
 
-After finishing this project, you can:
-
-- Build React apps from scratch
-- Manage complex UI state
-- Use Context & custom hooks
-- Implement routing and auth flows
-- Build real-world features
-- Deploy production apps
-
----
